@@ -1,0 +1,9 @@
+D:\Antonín Štolfa\PRG\C#\Oklo3_Binární\Oklo3_Binární\obj\Debug\Oklo3_Binární.Form1.resources
+D:\Antonín Štolfa\PRG\C#\Oklo3_Binární\Oklo3_Binární\obj\Debug\Oklo3_Binární.Properties.Resources.resources
+D:\Antonín Štolfa\PRG\C#\Oklo3_Binární\Oklo3_Binární\obj\Debug\Úkol3_ Binární.csproj.GenerateResource.cache
+D:\Antonín Štolfa\PRG\C#\Oklo3_Binární\Oklo3_Binární\obj\Debug\Úkol3_ Binární.csproj.CoreCompileInputs.cache
+D:\Antonín Štolfa\PRG\C#\Oklo3_Binární\Oklo3_Binární\bin\Debug\Oklo3_Binární.exe.config
+D:\Antonín Štolfa\PRG\C#\Oklo3_Binární\Oklo3_Binární\bin\Debug\Oklo3_Binární.exe
+D:\Antonín Štolfa\PRG\C#\Oklo3_Binární\Oklo3_Binární\bin\Debug\Oklo3_Binární.pdb
+D:\Antonín Štolfa\PRG\C#\Oklo3_Binární\Oklo3_Binární\obj\Debug\Oklo3_Binární.exe
+D:\Antonín Štolfa\PRG\C#\Oklo3_Binární\Oklo3_Binární\obj\Debug\Oklo3_Binární.pdb
