@@ -1,0 +1,19 @@
+D:\Antonín Štolfa\PRG\C#\Oklo3_Binární\Oklo3_Binární\obj\Debug\Oklo3_Binární.Form1.resources
+D:\Antonín Štolfa\PRG\C#\Oklo3_Binární\Oklo3_Binární\obj\Debug\Oklo3_Binární.Properties.Resources.resources
+D:\Antonín Štolfa\PRG\C#\Oklo3_Binární\Oklo3_Binární\obj\Debug\Úkol3_ Binární.csproj.GenerateResource.cache
+D:\Antonín Štolfa\PRG\C#\Oklo3_Binární\Oklo3_Binární\obj\Debug\Úkol3_ Binární.csproj.CoreCompileInputs.cache
+D:\Antonín Štolfa\PRG\C#\Oklo3_Binární\Oklo3_Binární\bin\Debug\Oklo3_Binární.exe.config
+D:\Antonín Štolfa\PRG\C#\Oklo3_Binární\Oklo3_Binární\bin\Debug\Oklo3_Binární.exe
+D:\Antonín Štolfa\PRG\C#\Oklo3_Binární\Oklo3_Binární\bin\Debug\Oklo3_Binární.pdb
+D:\Antonín Štolfa\PRG\C#\Oklo3_Binární\Oklo3_Binární\obj\Debug\Oklo3_Binární.exe
+D:\Antonín Štolfa\PRG\C#\Oklo3_Binární\Oklo3_Binární\obj\Debug\Oklo3_Binární.pdb
+C:\Users\vomelaj.05\Source\Repos\Ukol3_Binarni\Oklo3_Binární\Oklo3_Binární\bin\Debug\Oklo3_Binární.exe.config
+C:\Users\vomelaj.05\Source\Repos\Ukol3_Binarni\Oklo3_Binární\Oklo3_Binární\bin\Debug\Oklo3_Binární.exe
+C:\Users\vomelaj.05\Source\Repos\Ukol3_Binarni\Oklo3_Binární\Oklo3_Binární\bin\Debug\Oklo3_Binární.pdb
+C:\Users\vomelaj.05\Source\Repos\Ukol3_Binarni\Oklo3_Binární\Oklo3_Binární\obj\Debug\Úkol3_ Binární.csprojAssemblyReference.cache
+C:\Users\vomelaj.05\Source\Repos\Ukol3_Binarni\Oklo3_Binární\Oklo3_Binární\obj\Debug\Oklo3_Binární.Form1.resources
+C:\Users\vomelaj.05\Source\Repos\Ukol3_Binarni\Oklo3_Binární\Oklo3_Binární\obj\Debug\Oklo3_Binární.Properties.Resources.resources
+C:\Users\vomelaj.05\Source\Repos\Ukol3_Binarni\Oklo3_Binární\Oklo3_Binární\obj\Debug\Úkol3_ Binární.csproj.GenerateResource.cache
+C:\Users\vomelaj.05\Source\Repos\Ukol3_Binarni\Oklo3_Binární\Oklo3_Binární\obj\Debug\Úkol3_ Binární.csproj.CoreCompileInputs.cache
+C:\Users\vomelaj.05\Source\Repos\Ukol3_Binarni\Oklo3_Binární\Oklo3_Binární\obj\Debug\Oklo3_Binární.exe
+C:\Users\vomelaj.05\Source\Repos\Ukol3_Binarni\Oklo3_Binární\Oklo3_Binární\obj\Debug\Oklo3_Binární.pdb
